@@ -1,3 +1,3 @@
 # media
 
-Computa a media de uma array
+# Computa a media de uma array
